@@ -29,6 +29,8 @@ My work focuses on designing, configuring, maintaining, and troubleshooting secu
 ## Featured Network Engineering Projects
 
 ### 1. FortiGate Enterprise Firewall & Multi-WAN Infrastructure
+
+[**View Project Case Study →**](projects/fortigate-multiwan.md)
 **Technology:** Fortinet FortiGate 60F, SD-WAN, NAT, Policy-Based Routing
 
 **Type:** Production Experience
@@ -36,6 +38,8 @@ My work focuses on designing, configuring, maintaining, and troubleshooting secu
 Enterprise firewall administration supporting multiple Internet connections, firewall security policies, WAN routing, and business-critical application connectivity.
 
 ### 2. pfSense ↔ MikroTik Site-to-Site WireGuard VPN
+
+[**View Project Case Study →**](projects/pfsense-mikrotik-wireguard.md)
 **Technology:** pfSense, MikroTik RouterOS, WireGuard, VLANs, Firewall Rules
 
 **Type:** Production Experience
@@ -43,6 +47,8 @@ Enterprise firewall administration supporting multiple Internet connections, fir
 Encrypted site-to-site network connectivity between separate enterprise environments, with controlled routing and access to authorized internal networks.
 
 ### 3. Cisco Enterprise Switching & VLAN Architecture
+
+[**View Project Case Study →**](projects/cisco-enterprise-switching.md)
 **Technology:** Cisco Catalyst 3850/3750, VLANs, Trunking, Fiber Uplinks
 
 **Type:** Production Experience
@@ -50,6 +56,8 @@ Encrypted site-to-site network connectivity between separate enterprise environm
 Administration of enterprise switching infrastructure, VLAN segmentation, access and trunk configurations, and network connectivity troubleshooting.
 
 ### 4. Cisco Wireless LAN Controller Infrastructure
+
+[**View Project Case Study →**](projects/cisco-wireless-controller.md)
 **Technology:** Cisco WLC 2504, Aironet APs, VLAN Integration, Wireless Policies
 
 **Type:** Production Experience
@@ -57,6 +65,8 @@ Administration of enterprise switching infrastructure, VLAN segmentation, access
 Centralized enterprise wireless administration, multiple SSIDs, guest access separation, and wireless network troubleshooting.
 
 ### 5. FortiGate ↔ MikroTik IPsec VPN — GNS3
+
+[**View Project Case Study →**](projects/fortigate-mikrotik-gns3.md)
 **Technology:** FortiGate Virtual Firewall, MikroTik CHR, Cisco, GNS3, IPsec
 
 **Type:** Lab In Progress
@@ -64,6 +74,8 @@ Centralized enterprise wireless administration, multiple SSIDs, guest access sep
 Production-style network simulation focused on IPsec VPN interoperability, VLAN routing, firewall policies, and inter-site connectivity.
 
 ### 6. Large-Scale CCTV & Fiber Network Infrastructure
+
+[**View Project Case Study →**](projects/cctv-fiber-infrastructure.md)
 **Technology:** IP Cameras, Cisco Switching, VLANs, Fiber Optics, NVR
 
 **Type:** Production Experience / Architecture Planning
@@ -71,6 +83,8 @@ Production-style network simulation focused on IPsec VPN interoperability, VLAN 
 Operational experience with large IP surveillance networks, alongside technical planning for perimeter CCTV connectivity over fiber infrastructure.
 
 ### 7. FortiGate ↔ pfSense Site-to-Site IPsec Lab
+
+[**View Project Case Study →**](projects/fortigate-pfsense-ipsec-lab.md)
 **Technology:** FortiGate, pfSense, EVE-NG, IPsec, Routing
 
 **Type:** Completed Lab
@@ -78,6 +92,8 @@ Operational experience with large IP surveillance networks, alongside technical 
 Virtualized firewall interoperability lab demonstrating IPsec tunnel configuration and inter-site connectivity testing.
 
 ### 8. Enterprise Network Troubleshooting
+
+[**View Project Case Study →**](projects/network-troubleshooting.md)
 **Technology:** Wireshark, Cisco IOS, MikroTik, pfSense, SFP, TDR
 
 **Type:** Operational Troubleshooting
