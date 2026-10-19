@@ -26,79 +26,27 @@ My work focuses on designing, configuring, maintaining, and troubleshooting secu
 
 ---
 
-## Featured Network Engineering Projects
+## Featured Network Engineering Projects — 13 Case Studies
 
-### 1. FortiGate Enterprise Firewall & Multi-WAN Infrastructure
+These are the same **13 projects published on my [professional portfolio](https://salman-sakhi.web.app/#projects)**. Each **Full case study** link opens its detailed project page, including technical scope and architecture. Where available, **GitHub notes** provide supplementary documentation. Production work, labs, and planned work are labeled separately.
 
-[**View Project Case Study →**](projects/fortigate-multiwan.md)
-**Technology:** Fortinet FortiGate 60F, SD-WAN, NAT, Policy-Based Routing
+| # | Project | Status | Technologies | Details |
+|---|---|---|---|---|
+| 1 | **Enterprise Firewall & Multi-WAN Connectivity** | Production Experience | FortiGate 60F · SD-WAN · NAT · policy routing | [Full case study](https://salman-sakhi.web.app/projects/enterprise-firewall-multi-wan) · [GitHub notes](projects/fortigate-multiwan.md) |
+| 2 | **pfSense ↔ MikroTik Site-to-Site WireGuard VPN** | Production Experience | WireGuard · VLAN routing · access control | [Full case study](https://salman-sakhi.web.app/projects/pfsense-mikrotik-wireguard-vpn) · [GitHub notes](projects/pfsense-mikrotik-wireguard.md) |
+| 3 | **Enterprise Cisco Switching & VLAN Segmentation** | Production Experience | Catalyst 3850/3750 · VLANs · fiber uplinks | [Full case study](https://salman-sakhi.web.app/projects/cisco-switching-vlan-segmentation) · [GitHub notes](projects/cisco-enterprise-switching.md) |
+| 4 | **Cisco Wireless LAN Controller & Enterprise Wi-Fi** | Production Experience | WLC 2504 · Aironet APs · SSID/VLAN policies | [Full case study](https://salman-sakhi.web.app/projects/cisco-wlc-enterprise-wifi) · [GitHub notes](projects/cisco-wireless-controller.md) |
+| 5 | **Enterprise Email & Collaboration Infrastructure** | Production Experience | Zimbra · Linux · DNS/NAT · Jitsi Meet | [Full case study](https://salman-sakhi.web.app/projects/enterprise-email-collaboration) |
+| 6 | **Large-Scale CCTV Network Infrastructure** | Production Experience | 300+ camera environment · NVR · switching | [Full case study](https://salman-sakhi.web.app/projects/large-scale-cctv-network) · [GitHub notes](projects/cctv-fiber-infrastructure.md) |
+| 7 | **HBL Branch SD-WAN Migration Support** | Production Experience | Huawei routers · branch connectivity | [Full case study](https://salman-sakhi.web.app/projects/hbl-branch-sd-wan-migration) |
+| 8 | **FortiGate ↔ pfSense IPsec VPN Lab** | Completed Lab | Cross-vendor IPsec · EVE-NG | [Full case study](https://salman-sakhi.web.app/projects/fortigate-pfsense-ipsec-lab) · [GitHub notes](projects/fortigate-pfsense-ipsec-lab.md) |
+| 9 | **FortiGate ↔ MikroTik IPsec VPN with VLAN Routing** | Lab in Progress | GNS3 · FortiGate VM · MikroTik CHR | [Full case study](https://salman-sakhi.web.app/projects/fortigate-mikrotik-ipsec-vlan-lab) · [GitHub notes](projects/fortigate-mikrotik-gns3.md) |
+| 10 | **CCTV VLAN Isolation & Restricted Remote Access** | Operational Implementation / In Progress | pfSense · MikroTik · WireGuard · firewall policies | [Full case study](https://salman-sakhi.web.app/projects/cctv-vlan-isolation-remote-access) |
+| 11 | **Fiber-Based Perimeter CCTV Architecture** | Design / Planning | Single-mode fiber · SFP · PoE · NVR | [Full case study](https://salman-sakhi.web.app/projects/perimeter-fiber-cctv-design) · [GitHub notes](projects/cctv-fiber-infrastructure.md) |
+| 12 | **Enterprise Network Troubleshooting & Diagnostics** | Operational Troubleshooting | Wireshark · Cisco IOS · TDR · routing | [Full case study](https://salman-sakhi.web.app/projects/enterprise-network-troubleshooting) · [GitHub notes](projects/network-troubleshooting.md) |
+| 13 | **Biometric Attendance & ERP Integration Troubleshooting** | Operational Troubleshooting | ZKTeco · BioTime · ERP integration | [Full case study](https://salman-sakhi.web.app/projects/biometric-attendance-erp-troubleshooting) |
 
-**Type:** Production Experience
-
-Enterprise firewall administration supporting multiple Internet connections, firewall security policies, WAN routing, and business-critical application connectivity.
-
-### 2. pfSense ↔ MikroTik Site-to-Site WireGuard VPN
-
-[**View Project Case Study →**](projects/pfsense-mikrotik-wireguard.md)
-**Technology:** pfSense, MikroTik RouterOS, WireGuard, VLANs, Firewall Rules
-
-**Type:** Production Experience
-
-Encrypted site-to-site network connectivity between separate enterprise environments, with controlled routing and access to authorized internal networks.
-
-### 3. Cisco Enterprise Switching & VLAN Architecture
-
-[**View Project Case Study →**](projects/cisco-enterprise-switching.md)
-**Technology:** Cisco Catalyst 3850/3750, VLANs, Trunking, Fiber Uplinks
-
-**Type:** Production Experience
-
-Administration of enterprise switching infrastructure, VLAN segmentation, access and trunk configurations, and network connectivity troubleshooting.
-
-### 4. Cisco Wireless LAN Controller Infrastructure
-
-[**View Project Case Study →**](projects/cisco-wireless-controller.md)
-**Technology:** Cisco WLC 2504, Aironet APs, VLAN Integration, Wireless Policies
-
-**Type:** Production Experience
-
-Centralized enterprise wireless administration, multiple SSIDs, guest access separation, and wireless network troubleshooting.
-
-### 5. FortiGate ↔ MikroTik IPsec VPN — GNS3
-
-[**View Project Case Study →**](projects/fortigate-mikrotik-gns3.md)
-**Technology:** FortiGate Virtual Firewall, MikroTik CHR, Cisco, GNS3, IPsec
-
-**Type:** Lab In Progress
-
-Production-style network simulation focused on IPsec VPN interoperability, VLAN routing, firewall policies, and inter-site connectivity.
-
-### 6. Large-Scale CCTV & Fiber Network Infrastructure
-
-[**View Project Case Study →**](projects/cctv-fiber-infrastructure.md)
-**Technology:** IP Cameras, Cisco Switching, VLANs, Fiber Optics, NVR
-
-**Type:** Production Experience / Architecture Planning
-
-Operational experience with large IP surveillance networks, alongside technical planning for perimeter CCTV connectivity over fiber infrastructure.
-
-### 7. FortiGate ↔ pfSense Site-to-Site IPsec Lab
-
-[**View Project Case Study →**](projects/fortigate-pfsense-ipsec-lab.md)
-**Technology:** FortiGate, pfSense, EVE-NG, IPsec, Routing
-
-**Type:** Completed Lab
-
-Virtualized firewall interoperability lab demonstrating IPsec tunnel configuration and inter-site connectivity testing.
-
-### 8. Enterprise Network Troubleshooting
-
-[**View Project Case Study →**](projects/network-troubleshooting.md)
-**Technology:** Wireshark, Cisco IOS, MikroTik, pfSense, SFP, TDR
-
-**Type:** Operational Troubleshooting
-
-Technical investigations covering network connectivity, DHCP, routing, firewall NAT, VPN issues, physical-layer faults, and packet analysis.
+*Technical diagrams are illustrative or sanitized; no sensitive production configurations or credentials are published.*
 
 ---
 
