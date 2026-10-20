@@ -1,6 +1,6 @@
 # Cisco Wireless LAN Controller & Enterprise Wi-Fi
 
-[**View full project on SalmanSakhi.com →**](https://salman-sakhi.web.app/projects/cisco-wlc-enterprise-wifi)
+[**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/cisco-wlc-enterprise-wifi)
 
 **Status:** Production experience  
 **Technologies:** Cisco WLC 2504, Aironet 3602/3702, SSIDs, VLAN interfaces, wireless policies
