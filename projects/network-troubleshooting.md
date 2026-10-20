@@ -1,5 +1,7 @@
 # Enterprise Network Troubleshooting Case Notes
 
+[**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/enterprise-network-troubleshooting)
+
 **Status:** Operational troubleshooting  
 **Technologies:** Wireshark, Cisco IOS, MikroTik, pfSense, DHCP, ARP, TDR, SFP
 
