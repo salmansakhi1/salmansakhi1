@@ -1,5 +1,7 @@
 # Fiber-Based Perimeter CCTV Architecture
 
+[**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/perimeter-fiber-cctv-design)
+
 **Status:** Design / Planning — Not As-Built  
 **Technologies:** Single-mode fiber, SFPs, outdoor PoE switches, camera access networks, NVR, ODF.
 
@@ -19,4 +21,4 @@ A central server/control room distributes network connectivity to weatherproof f
 
 **Status note:** Design work only. Device counts and links here are planning inputs, not proof of installed infrastructure.
 
-[Full portfolio case study](https://salman-sakhi.web.app/projects/perimeter-fiber-cctv-design) · [Back to profile](../README.md)
+[Back to profile](../README.md)
