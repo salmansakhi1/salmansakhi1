@@ -1,5 +1,7 @@
 # CCTV VLAN Isolation & Restricted Remote Access
 
+[**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/cctv-vlan-isolation-remote-access)
+
 **Status:** Operational Implementation / In Progress  
 **Technologies:** pfSense, MikroTik RouterOS, VLANs, WireGuard, route policy and ACLs.
 
@@ -21,4 +23,4 @@ Check correct tagging and addressing, gateway and return route, authorized manag
 
 **Disclosure:** No company network addresses, gateway hostnames, VPN keys or live security-policy exports are included.
 
-[Full portfolio case study](https://salman-sakhi.web.app/projects/cctv-vlan-isolation-remote-access) · [Back to profile](../README.md)
+[Back to profile](../README.md)
