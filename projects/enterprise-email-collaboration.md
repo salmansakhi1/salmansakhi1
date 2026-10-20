@@ -1,5 +1,7 @@
 # Enterprise Email & Collaboration Infrastructure
 
+[**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/enterprise-email-collaboration)
+
 **Status:** Production Experience  
 **Technologies:** Zimbra Collaboration, Linux, DNS, MikroTik firewall/NAT, Jitsi Meet.
 
@@ -20,4 +22,4 @@ Sanitized logical topology, service protocol inventory, a change checklist, and 
 
 **Disclosure:** This is a professional infrastructure case study. Production addresses, accounts, mail domains, TLS material and secrets have been omitted.
 
-[Full portfolio case study](https://salman-sakhi.web.app/projects/enterprise-email-collaboration) · [Back to profile](../README.md)
+[Back to profile](../README.md)
