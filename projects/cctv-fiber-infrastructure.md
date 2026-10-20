@@ -1,5 +1,7 @@
 # CCTV Network Operations & Fiber Perimeter Design
 
+[**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/large-scale-cctv-network)
+
 **Status:** Production experience + separate design/planning work  
 **Technologies:** IP CCTV, NVR, switching, VLANs, single-mode fiber, SFP, PoE
 
