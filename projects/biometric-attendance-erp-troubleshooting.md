@@ -1,5 +1,7 @@
 # Biometric Attendance & ERP Integration Troubleshooting
 
+[**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/biometric-attendance-erp-troubleshooting)
+
 **Status:** Operational Troubleshooting  
 **Technologies:** ZKTeco uFace800 / uFace800 Plus, BioTime 5, attendance synchronization, ERP/HR integration.
 
@@ -20,4 +22,4 @@ A suspicious attendance event does not by itself identify a person, prove creden
 ## Evidence
 Use a fictionalized data-flow diagram and non-identifying procedural checks. Actual evidence belongs in access-controlled incident records, not this repository.
 
-[Full portfolio case study](https://salman-sakhi.web.app/projects/biometric-attendance-erp-troubleshooting) · [Back to profile](../README.md)
+[Back to profile](../README.md)
