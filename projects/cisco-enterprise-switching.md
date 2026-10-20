@@ -1,6 +1,6 @@
 # Cisco Enterprise Switching & VLAN Architecture
 
-[**View full project on SalmanSakhi.com →**](https://salman-sakhi.web.app/projects/cisco-switching-vlan-segmentation)
+[**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/cisco-switching-vlan-segmentation)
 
 **Status:** Production experience  
 **Technologies:** Cisco Catalyst 3850, 3750/3750X, VLANs, 802.1Q trunks, fiber/SFP
