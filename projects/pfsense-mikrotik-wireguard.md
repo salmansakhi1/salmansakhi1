@@ -1,5 +1,7 @@
 # pfSense ↔ MikroTik Site-to-Site WireGuard VPN
 
+[**View full project on SalmanSakhi.com →**](https://salman-sakhi.web.app/projects/pfsense-mikrotik-wireguard-vpn)
+
 **Status:** Production experience  
 **Technologies:** pfSense, MikroTik RouterOS, WireGuard, IPv4 routing, firewall rules, VLAN segmentation  
 **Focus:** Encrypted connectivity between separated enterprise sites
