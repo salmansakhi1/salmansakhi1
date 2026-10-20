@@ -1,6 +1,6 @@
 # FortiGate Enterprise Firewall & Multi-WAN Connectivity
 
-[**View full project on SalmanSakhi.com →**](https://salman-sakhi.web.app/projects/enterprise-firewall-multi-wan)
+[**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/enterprise-firewall-multi-wan)
 
 **Status:** Production experience — infrastructure administration  
 **Technologies:** Fortinet FortiGate 60F, SD-WAN, firewall policies, NAT, policy-based routing, dual ISP  
