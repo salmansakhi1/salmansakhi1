@@ -1,5 +1,7 @@
 # FortiGate ↔ pfSense Site-to-Site IPsec Lab
 
+[**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/fortigate-pfsense-ipsec-lab)
+
 **Status:** Reported completed lab; verification artifacts pending  
 **Technologies:** FortiGate VM, pfSense, EVE-NG, simulated ISP, IPsec
 
