@@ -1,5 +1,7 @@
 # HBL Branch SD-WAN Migration Support
 
+[**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/hbl-branch-sd-wan-migration)
+
 **Status:** Production Experience — Engineering Team Participation  
 **Technologies:** Huawei branch routers, enterprise WAN, migration support, branch connectivity validation.
 
@@ -18,4 +20,4 @@ These phases are representative engineering considerations, not an assertion of 
 ## Boundaries
 This case study does not claim ownership of HBL's overall WAN design, SD-WAN controller, commercial carrier details or bank-wide rollout. Diagrams are sanitized, conceptual and non-confidential.
 
-[Full portfolio case study](https://salman-sakhi.web.app/projects/hbl-branch-sd-wan-migration) · [Back to profile](../README.md)
+[Back to profile](../README.md)
