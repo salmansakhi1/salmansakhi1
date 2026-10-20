@@ -1,5 +1,7 @@
 # FortiGate ↔ MikroTik IPsec VPN with VLAN Routing — GNS3
 
+[**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/fortigate-mikrotik-ipsec-vlan-lab)
+
 **Status:** Lab in progress  
 **Technologies:** GNS3, FortiGate VM, MikroTik CHR, IPsec/IKEv2, VLANs, routing
 
