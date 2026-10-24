@@ -41,7 +41,7 @@ Cloud & communications: Microsoft 365, identity administration, email platforms 
 
 ## Featured Technical Projects
 
-All 21 portfolio projects are documented below. Classifications distinguish production responsibilities, technical labs, implementation scope and proposed architecture; each case study records its own verification limits.
+Classifications distinguish production responsibilities, technical labs, implementation scope and proposed architecture; each case study records its own verification limits.
 
 | Project | Technologies | Classification | GitHub documentation | Website case study |
 |---|---|---|---|---|
