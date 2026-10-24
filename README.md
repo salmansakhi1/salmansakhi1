@@ -1,34 +1,47 @@
 # Salman Sakhi
-### Network & Infrastructure Engineer
+### Network, Systems & Infrastructure Engineer
 
-**Cisco | Fortinet FortiGate | MikroTik | pfSense | VPN | Enterprise Networking**
+**FortiGate · MikroTik · pfSense · Cisco · PRTG · VMware · Windows Server · Microsoft 365**
 
-I am a Network & Infrastructure Engineer based in Lahore, Pakistan, with over 6 years of hands-on experience in enterprise networking, network security, firewall administration, VPN connectivity, and IT infrastructure operations.
+Network, systems and infrastructure engineer based in Lahore, Pakistan, with hands-on experience in enterprise LAN/WAN operations, firewall administration, VPNs, servers, virtualization, monitoring and business-critical IT systems.
 
-My work focuses on designing, configuring, maintaining, and troubleshooting secure network environments using Cisco, Fortinet, MikroTik, and pfSense technologies.
+I work across secure connectivity, server operations, troubleshooting and multi-site infrastructure. My [professional portfolio](https://salman-sakhi.web.app/) contains project case studies and the technical scope behind them.
 
-**[Explore My Professional Portfolio](https://salman-sakhi.web.app/)**
+**[View Portfolio & Services](https://salman-sakhi.web.app/)** · **[Explore Engineering Projects](https://salman-sakhi.web.app/#projects)**
 
 ---
 
 ## Technical Expertise
 
-| Category | Technologies & Skills |
+| Category | Technologies & Responsibilities |
 |---|---|
-| **Firewalls & Security** | Fortinet FortiGate, pfSense, MikroTik RouterOS, NAT, Firewall Policies, ACLs |
-| **VPN & Connectivity** | IPsec, IKEv2, WireGuard, OpenVPN, L2TP/IPsec, Site-to-Site VPN |
-| **Enterprise Networking** | Cisco Catalyst, VLANs, 802.1Q Trunking, Layer 2/3 Switching, Routing |
-| **WAN & Internet** | SD-WAN, Multi-WAN, PPPoE, Policy-Based Routing, Bandwidth Management |
-| **Wireless Networking** | Cisco WLC, Cisco Aironet, SSID/VLAN Integration, Guest Wi-Fi |
-| **Infrastructure** | Windows Server, Linux, VMware, Zimbra, DNS, DHCP, CCTV Networks |
-| **Troubleshooting** | Wireshark, Packet Analysis, Cisco IOS, Routing Diagnostics, Firewall Logs |
-| **Network Labs** | GNS3, EVE-NG, FortiGate VM, MikroTik CHR, pfSense |
+| **Firewalls, VPN & Security** | Fortinet FortiGate, MikroTik RouterOS, pfSense, IPsec, WireGuard, firewall policies, NAT, site-to-site VPN |
+| **Enterprise LAN/WAN** | Cisco Catalyst switching, VLANs, trunking, routing, Huawei SD-WAN migration support, ISP connectivity |
+| **Network Monitoring** | PRTG Network Monitor, device availability, monitoring alerts, Wireshark, network troubleshooting |
+| **Wireless & Surveillance** | Cisco WLC, Aironet access points, WLAN/SSID segmentation, IP CCTV networks and NVR infrastructure |
+| **Windows & Linux Systems** | Windows Server, Active Directory, Group Policy, DNS/DHCP, Linux server administration |
+| **Virtualization** | VMware ESXi, vCenter, VM administration, virtual networking, virtual firewall and router labs |
+| **Backup & Recovery** | VMware-based backup, Clonezilla disk images, configuration backups, recovery planning |
+| **Microsoft Cloud & Identity** | Microsoft 365, Azure AD / Microsoft Entra ID, account administration, MFA and licensing |
+| **Email & Collaboration** | Zimbra, Carbonio, Microsoft Teams, mail routing and infrastructure troubleshooting |
+| **Voice & Automation** | IP PBX/VoIP, extensions, IVR, Microsoft Power Apps inventory and reporting workflows |
+| **Storage Architecture** | NAS, SMB shares, centralized file access and permissions (design/planning work) |
+
+### Services
+
+Network & security: firewall configuration, VPN connectivity, Cisco switching and monitoring.
+
+Servers & infrastructure: Windows/Linux administration, Active Directory, virtualization, backup/recovery and DNS.
+
+Cloud & communications: Microsoft 365, identity administration, email platforms and IP telephony.
+
+[See available services and related case studies on my website](https://salman-sakhi.web.app/#services).
 
 ---
 
-## Featured Network Engineering Projects — 13 Case Studies
+## Technical Project Documentation — First 13 Case Studies
 
-These are the same **13 projects published on my [professional portfolio](https://salman-sakhi.web.app/#projects)**. Each **Full case study** link opens its detailed project page, including technical scope and architecture. Where available, **GitHub notes** provide supplementary documentation. Production work, labs, and planned work are labeled separately.
+The original 13 project case studies are linked below. The [website project collection](https://salman-sakhi.web.app/#projects) has expanded to 21 projects; the additional documentation and diagram assets still require synchronization. Each linked project opens its detailed website case study or associated GitHub notes. Production work, labs and designs remain distinct.
 
 | # | Project | Status | Technologies | Details |
 |---|---|---|---|---|
