@@ -1,5 +1,7 @@
 # CCTV VLAN Isolation & Restricted Remote Access
 
+> Current case study: [View GitHub Documentation](cctv-vlan-isolation-remote-access/README.md). Classification: **Network Security Implementation**. The earlier technical notes below are retained for existing links; use the structured case study for current scope and verification evidence.
+
 [**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/cctv-vlan-isolation-remote-access)
 
 **Status:** Operational Implementation / In Progress  

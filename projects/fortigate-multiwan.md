@@ -1,5 +1,7 @@
 # FortiGate Enterprise Firewall & Multi-WAN Connectivity
 
+> Current case study: [View GitHub Documentation](enterprise-firewall-multi-wan/README.md). Classification: **Production Experience**. The earlier technical notes below are retained for existing links; use the structured case study for current scope and verification evidence.
+
 [**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/enterprise-firewall-multi-wan)
 
 **Status:** Production experience — infrastructure administration  

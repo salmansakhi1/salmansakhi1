@@ -1,5 +1,7 @@
 # pfSense ↔ MikroTik Site-to-Site WireGuard VPN
 
+> Current case study: [View GitHub Documentation](pfsense-mikrotik-wireguard-vpn/README.md). Classification: **Production Experience**. The earlier technical notes below are retained for existing links; use the structured case study for current scope and verification evidence.
+
 [**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/pfsense-mikrotik-wireguard-vpn)
 
 **Status:** Production experience  

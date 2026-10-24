@@ -1,5 +1,7 @@
 # Cisco Enterprise Switching & VLAN Architecture
 
+> Current case study: [View GitHub Documentation](cisco-switching-vlan-segmentation/README.md). Classification: **Production Experience**. The earlier technical notes below are retained for existing links; use the structured case study for current scope and verification evidence.
+
 [**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/cisco-switching-vlan-segmentation)
 
 **Status:** Production experience  

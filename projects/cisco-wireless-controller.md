@@ -1,5 +1,7 @@
 # Cisco Wireless LAN Controller & Enterprise Wi-Fi
 
+> Current case study: [View GitHub Documentation](cisco-wlc-enterprise-wifi/README.md). Classification: **Production Experience**. The earlier technical notes below are retained for existing links; use the structured case study for current scope and verification evidence.
+
 [**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/cisco-wlc-enterprise-wifi)
 
 **Status:** Production experience  

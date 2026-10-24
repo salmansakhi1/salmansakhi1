@@ -1,5 +1,7 @@
 # HBL Branch SD-WAN Migration Support
 
+> Current case study: [View GitHub Documentation](hbl-branch-sd-wan-migration/README.md). Classification: **Production Experience**. The earlier technical notes below are retained for existing links; use the structured case study for current scope and verification evidence.
+
 [**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/hbl-branch-sd-wan-migration)
 
 **Status:** Production Experience — Engineering Team Participation  

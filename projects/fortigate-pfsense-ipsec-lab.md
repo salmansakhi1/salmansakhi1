@@ -1,5 +1,7 @@
 # FortiGate ↔ pfSense Site-to-Site IPsec Lab
 
+> Current case study: [View GitHub Documentation](fortigate-pfsense-ipsec-lab/README.md). Classification: **Completed Lab**. The earlier technical notes below are retained for existing links; use the structured case study for current scope and verification evidence.
+
 [**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/fortigate-pfsense-ipsec-lab)
 
 **Status:** Reported completed lab; verification artifacts pending  

@@ -1,5 +1,7 @@
 # Enterprise Email & Collaboration Infrastructure
 
+> Current case study: [View GitHub Documentation](enterprise-email-collaboration/README.md). Classification: **Production Experience**. The earlier technical notes below are retained for existing links; use the structured case study for current scope and verification evidence.
+
 [**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/enterprise-email-collaboration)
 
 **Status:** Production Experience  

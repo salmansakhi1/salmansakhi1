@@ -1,5 +1,7 @@
 # CCTV Network Operations & Fiber Perimeter Design
 
+> Current case study: [View GitHub Documentation](large-scale-cctv-network/README.md). Classification: **Production Experience**. The earlier technical notes below are retained for existing links; use the structured case study for current scope and verification evidence.
+
 [**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/large-scale-cctv-network)
 
 **Status:** Production experience + separate design/planning work  

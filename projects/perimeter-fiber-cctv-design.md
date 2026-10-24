@@ -1,5 +1,7 @@
 # Fiber-Based Perimeter CCTV Architecture
 
+> Current case study: [View GitHub Documentation](perimeter-fiber-cctv-design/README.md). Classification: **Network Architecture Design**. The earlier technical notes below are retained for existing links; use the structured case study for current scope and verification evidence.
+
 [**View full project on my portfolio →**](https://salman-sakhi.web.app/projects/perimeter-fiber-cctv-design)
 
 **Status:** Design / Planning — Not As-Built  
